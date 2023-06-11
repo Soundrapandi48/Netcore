@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace MyFirstProgram
 {
-    internal class Class1
+    class User
     {
+        public int Id { get; set; }
+        public string Name { get; set; }
     }
 }

@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstProgram", "MyFirstProgram\MyFirstProgram.csproj", "{CF1D4C01-A3B3-4628-88D1-F9AD49682837}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyFirstProgram", "MyFirstProgram\MyFirstProgram.csproj", "{CF1D4C01-A3B3-4628-88D1-F9AD49682837}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreApps", "NetCoreApps\NetCoreApps.csproj", "{D27DE30C-CBEF-4FE1-B648-5569B2E2A7C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{CF1D4C01-A3B3-4628-88D1-F9AD49682837}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF1D4C01-A3B3-4628-88D1-F9AD49682837}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF1D4C01-A3B3-4628-88D1-F9AD49682837}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D27DE30C-CBEF-4FE1-B648-5569B2E2A7C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D27DE30C-CBEF-4FE1-B648-5569B2E2A7C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D27DE30C-CBEF-4FE1-B648-5569B2E2A7C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D27DE30C-CBEF-4FE1-B648-5569B2E2A7C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
